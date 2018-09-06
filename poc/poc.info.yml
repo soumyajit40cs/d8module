@@ -1,0 +1,11 @@
+name: Drupal 8 POC
+type: module
+description: Used for drupal 8 POC purpose.
+dependencies:
+  - drupal:node
+  - drupal:block
+  
+# Information added by Drupal.org packaging script on 2017-12-17
+version: '8.x-1.x-dev'
+core: '8.x'
+datestamp: 1513537386

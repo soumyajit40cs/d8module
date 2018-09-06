@@ -1,0 +1,7 @@
+poc_page1:
+  path: 'poc/page1'
+  defaults:
+    _controller: '\Drupal\poc\Controller\PocController::simple'
+    _title: 'Poc Page Example'
+  requirements:
+    _permission: 'access poc page'
